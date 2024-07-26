@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NSI.Pagamento.API.props" />
+</Project>

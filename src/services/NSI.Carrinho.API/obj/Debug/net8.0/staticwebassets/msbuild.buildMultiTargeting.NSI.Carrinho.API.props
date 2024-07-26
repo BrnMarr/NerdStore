@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NSI.Carrinho.API.props" />
+</Project>

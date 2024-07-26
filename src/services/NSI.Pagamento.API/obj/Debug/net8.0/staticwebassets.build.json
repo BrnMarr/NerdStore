@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S29LBu0kC55I6+8B62TZRbZJOQnoBQ732hSYq2yeICw=",
+  "Source": "NSI.Pagamento.API",
+  "BasePath": "_content/NSI.Pagamento.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

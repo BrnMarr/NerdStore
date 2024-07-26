@@ -1,0 +1,6 @@
+@NSI.Pedido.API_HostAddress = http://localhost:5218
+
+GET {{NSI.Pedido.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

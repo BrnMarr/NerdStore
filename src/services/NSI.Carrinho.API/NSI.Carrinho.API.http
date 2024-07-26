@@ -1,0 +1,6 @@
+@NSI.Carrinho.API_HostAddress = http://localhost:5109
+
+GET {{NSI.Carrinho.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

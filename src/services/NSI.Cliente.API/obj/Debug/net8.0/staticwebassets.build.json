@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nfCEeYJd0FVyV+Bx176zLY0+Ub8q+DWBgSzafZqeel0=",
+  "Source": "NSI.Cliente.API",
+  "BasePath": "_content/NSI.Cliente.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\bin\Debug\net8.0\NSI.Core.deps.json
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\bin\Debug\net8.0\NSI.Core.dll
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\bin\Debug\net8.0\NSI.Core.pdb
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.AssemblyInfoInputs.cache
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.AssemblyInfo.cs
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.csproj.CoreCompileInputs.cache
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.sourcelink.json
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.dll
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\refint\NSI.Core.dll
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\NSI.Core.pdb
+C:\NerdStore\NSI\src\buildingblocks\NSI.Core\obj\Debug\net8.0\ref\NSI.Core.dll
